@@ -8,6 +8,7 @@ of a coil through which an electric current is passed, and a
 magnet. When the electric current interacts with the magnetic
 field, it generates a force that causes the coil to move. This
 movement can be harnessed to perform mechanical work.
+
 The digital control of Lorenz actuators involves the use of
 digital signals to control the operation of the actuator. This
 is typically achieved through a microcontroller or a digital
@@ -18,6 +19,7 @@ control of the actuator’s movement. Digital control systems
 also have the advantage of being able to easily interface with
 other digital systems, making them ideal for use in modern
 automated systems.
+
 However, the design and implementation of digital control
 systems for Lorenz actuators can be complex. It requires a
 deep understanding of both the physical principles underlying
