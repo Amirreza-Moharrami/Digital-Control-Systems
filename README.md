@@ -1,1 +1,3 @@
 # Digital-Control-Systems
+
+Over the past few decades, digital controllers have largely replaced analog ones, thanks to the decreasing cost of microprocessors and the versatility they offer. These controllers are now integral to many aspects of our daily lives, including household appliances, air conditioning systems, autonomous vehicles, and robotics. These Projects focus on analyzing and designing discrete-time control systems using techniques such as the z-transform, root locus, frequency-domain methods, and state-space approaches, with an emphasis on their real-time implementation through computers.
